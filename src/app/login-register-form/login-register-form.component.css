@@ -1,0 +1,41 @@
+.login-register{
+    /* background-color: white;  */
+    height: 100%;
+    width: 100%;
+}
+
+.form-border{
+    background-color: white; 
+    border: black solid 2px;
+    margin: auto;
+    padding-left: 10px;
+    height: 500px;
+    width: 500px;
+     border-radius: 30px;
+}
+
+form{
+    margin: auto;
+    padding-left: 60px;
+    height: 500px;
+    width: 500px; 
+}
+
+.login-register-toggle{
+    padding-left: 140px;
+}
+
+label{
+    color: black;
+    font-weight: bold;
+}
+
+.label{
+    color: black;
+    font-weight: bold;
+}
+
+.input-text{
+    width: 350px;
+}
+

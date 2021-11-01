@@ -1,0 +1,15 @@
+.nav-item{
+    margin-right: 30px;
+}
+
+.right-navbar{
+    margin-left: 200px;
+}
+
+ .nav-item .nav-link{
+    color: white;
+}
+
+.modal.show{
+    display: block;
+}

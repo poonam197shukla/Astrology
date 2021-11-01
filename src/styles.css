@@ -1,1 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    
+    /* background-image: url("../src/app/Images/Home Page/Home_page.jpg"); */
+    background-image: url("C:/Users/Pushpander Shukla/Desktop/Poonam-Leranings/Angular-Projects/Astrology/src/assets/Images/Home Page/Home_page.jpg");
+
+    background-repeat: repeat;
+    background-size: cover;
+    object-fit: cover;
+    color: beige;
+}
+
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
